@@ -1,0 +1,8 @@
+node_modules
+!.gitignore
+!.eslintrc.js
+!.babelrc
+npm-debug.log*
+test/
+.*
+public/
